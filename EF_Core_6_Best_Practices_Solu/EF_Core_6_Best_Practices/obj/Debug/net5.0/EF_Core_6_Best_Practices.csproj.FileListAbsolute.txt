@@ -1,0 +1,16 @@
+D:\Study\EF Core 6 Best Practices\EF_Core_6_Best_Practices_Solu\EF_Core_6_Best_Practices\bin\Debug\net5.0\EF_Core_6_Best_Practices.exe
+D:\Study\EF Core 6 Best Practices\EF_Core_6_Best_Practices_Solu\EF_Core_6_Best_Practices\bin\Debug\net5.0\EF_Core_6_Best_Practices.deps.json
+D:\Study\EF Core 6 Best Practices\EF_Core_6_Best_Practices_Solu\EF_Core_6_Best_Practices\bin\Debug\net5.0\EF_Core_6_Best_Practices.runtimeconfig.json
+D:\Study\EF Core 6 Best Practices\EF_Core_6_Best_Practices_Solu\EF_Core_6_Best_Practices\bin\Debug\net5.0\EF_Core_6_Best_Practices.runtimeconfig.dev.json
+D:\Study\EF Core 6 Best Practices\EF_Core_6_Best_Practices_Solu\EF_Core_6_Best_Practices\bin\Debug\net5.0\EF_Core_6_Best_Practices.dll
+D:\Study\EF Core 6 Best Practices\EF_Core_6_Best_Practices_Solu\EF_Core_6_Best_Practices\bin\Debug\net5.0\ref\EF_Core_6_Best_Practices.dll
+D:\Study\EF Core 6 Best Practices\EF_Core_6_Best_Practices_Solu\EF_Core_6_Best_Practices\bin\Debug\net5.0\EF_Core_6_Best_Practices.pdb
+D:\Study\EF Core 6 Best Practices\EF_Core_6_Best_Practices_Solu\EF_Core_6_Best_Practices\obj\Debug\net5.0\EF_Core_6_Best_Practices.csprojAssemblyReference.cache
+D:\Study\EF Core 6 Best Practices\EF_Core_6_Best_Practices_Solu\EF_Core_6_Best_Practices\obj\Debug\net5.0\EF_Core_6_Best_Practices.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\EF Core 6 Best Practices\EF_Core_6_Best_Practices_Solu\EF_Core_6_Best_Practices\obj\Debug\net5.0\EF_Core_6_Best_Practices.AssemblyInfoInputs.cache
+D:\Study\EF Core 6 Best Practices\EF_Core_6_Best_Practices_Solu\EF_Core_6_Best_Practices\obj\Debug\net5.0\EF_Core_6_Best_Practices.AssemblyInfo.cs
+D:\Study\EF Core 6 Best Practices\EF_Core_6_Best_Practices_Solu\EF_Core_6_Best_Practices\obj\Debug\net5.0\EF_Core_6_Best_Practices.csproj.CoreCompileInputs.cache
+D:\Study\EF Core 6 Best Practices\EF_Core_6_Best_Practices_Solu\EF_Core_6_Best_Practices\obj\Debug\net5.0\EF_Core_6_Best_Practices.dll
+D:\Study\EF Core 6 Best Practices\EF_Core_6_Best_Practices_Solu\EF_Core_6_Best_Practices\obj\Debug\net5.0\ref\EF_Core_6_Best_Practices.dll
+D:\Study\EF Core 6 Best Practices\EF_Core_6_Best_Practices_Solu\EF_Core_6_Best_Practices\obj\Debug\net5.0\EF_Core_6_Best_Practices.pdb
+D:\Study\EF Core 6 Best Practices\EF_Core_6_Best_Practices_Solu\EF_Core_6_Best_Practices\obj\Debug\net5.0\EF_Core_6_Best_Practices.genruntimeconfig.cache

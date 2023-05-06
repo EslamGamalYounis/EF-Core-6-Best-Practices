@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "EF_Core_6_Best_Practices/1.0.0": {
+        "runtime": {
+          "EF_Core_6_Best_Practices.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EF_Core_6_Best_Practices/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
